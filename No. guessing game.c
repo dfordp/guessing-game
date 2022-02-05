@@ -1,7 +1,8 @@
 // No. guessing game.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <iosteam>
+#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 int main()
 {
